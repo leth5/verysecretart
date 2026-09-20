@@ -1,0 +1,15 @@
+body {
+    font-family: "Inter";
+    background-color: #000000;
+    color: #adf285;
+    font-weight: 700;
+    zoom: 140%;
+}
+
+.theme {
+    width: 100%;
+    
+    font-size: 50px;
+
+     height:1em;
+}

@@ -9,7 +9,7 @@ body {
     height: auto;
     z-index: 2;
     margin-left: 50px;
-    position: absolute;
+    /* position: absolute; */
     animation: slide 2s infinite, shake 1s infinite;
 }
 

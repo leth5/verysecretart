@@ -34,7 +34,7 @@ body {
       z-index: 100;
 
       /* border: rgb(18, 23, 163) 1000px solid; */
-      animation: slide 4s infinite;
+      animation: slide 3s infinite;
       background: radial-gradient(ellipse, #00000000 0%, #000000 var(--percent), #000000);
     }
   
@@ -42,16 +42,13 @@ body {
   0% {
     --percent: 20%;
   }
-  50% {
+  53% {
     --percent: 20%;
   }
   65% {
     --percent: -10%;
   }
-  70% {
-    --percent: -10%;
-  }
-  85% {
+  72% {
     --percent: 20%;
   }
   100% {
